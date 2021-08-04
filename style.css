@@ -1,0 +1,13 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.computerArea {
+  width: 70%;
+  height: 50%;
+  margin: 5px;
+  background-color: rgb(146, 195, 226);
+  box-sizing: border-box;
+  position: relative;
+}
